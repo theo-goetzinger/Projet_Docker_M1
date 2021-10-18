@@ -87,7 +87,7 @@ networks:
 
 ## Variables d'environnements
 ```
-ayant intégrer des varibales d'environnement dans le docker-compose, il a fallut les déclarer dans un fichier .env
+ayant intégrer des variables d'environnement dans le docker-compose, il a fallut les déclarer dans un fichier .env
 
 ```
 ## .env 
